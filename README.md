@@ -1,53 +1,65 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=220&section=header&text=Decent898&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Doctor%20Ceremony%20(DC)%20%7C%20Firefly%20Simp&descAlignY=60&descAlign=50" />
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28F7B8&width=435&lines=Hi,+I’m+Haochen+Xu+👋;Call+me+Doctor+Ceremony+(DC);I+Love+Firefly+✨" alt="Typing SVG" />
-</a>
+### <img src="https://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif" width="30"> Identity Matrix
 
-<img src="https://media1.tenor.com/m/mX7A_lO1sQkAAAAC/firefly-honkai-star-rail.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+> **"I will set the seas ablaze."** — *Firefly (Hotaru)*
+
+- 🆔 **Codename:** **DC** (Doctor Ceremony)
+- 📅 **Active Since:** 2020
+- 📍 **Base:** Beijing, CN
+- 🛸 **Main Objective:** Breaking the wall between Reality & Virtual (Firefly Project).
+- 🎮 **Gaming:** **Chunithm** (Rating: Pro?) | **Galgame** Enthusiast
+
+---
+
+### 📡 Tech Frequency
+
+<div align="center">
+
+| Core | Systems | Tools |
+| :---: | :---: | :---: |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=intel&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
 ---
 
-### 👤 About Me
+### 🧬 Waifu & Favorites
 
-> **"This is Doctor Ceremony, you can call me DC. Since 2020."**
+<details>
+<summary><b>✨ Click to view Classified Files (Favorites)</b></summary>
+<br>
 
-- 📍 **Location:** Beijing, China
-- 🤖 **Interests:** FireFly (Honkai: Star Rail), Operating Systems, Assembly, Rhythm Games (Chunithm).
-- 🌱 **Currently Learning:** Bringing Firefly to reality & System Architecture.
-- 💻 **Blog:** [decent898.github.io](https://decent898.github.io/)
-- 📺 **Bilibili:** [My Channel (UID: 364311362)](https://space.bilibili.com/364311362)
-- 📫 **Contact:** [Email me](mailto:your_email@example.com)
+| Character | Origin | Status |
+| :--- | :--- | :--- |
+| **Firefly (Hotaru)** | *Honkai: Star Rail* | ❤️ **S-Rank Target** |
+| **Ayachi Nene** | *Sanoba Witch* | 💍 Eternal Bond |
+| **Kusanagi Nene** | *Project Sekai* | 🤖 Unit 01 |
+
+</details>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Activity & Reach
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-A8B9CC?style=for-the-badge&logo=intel&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=Decent898&label=Profile%20Views&color=0e75b6&style=flat-square" alt="watchers" />
+  <a href="https://space.bilibili.com/364311362" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-UID%3A%20364311362-fb7299?style=flat-square&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://decent898.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Decent898.io-black?style=flat-square&logo=github" />
+  </a>
 </p>
+
+![Profile Age](https://img.shields.io/date/1609459200?color=green&label=Mission%20Start%20Date&style=flat-square)
 
 ---
 
-### 📊 GitHub Stats (DC's Coding Life)
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Decent898&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decent898&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Decent898&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/Decent898/Decent898/raw/output/github-contribution-grid-snake.svg" />
+  <sub><i>"Have a nice day, Fellow Traveler."</i></sub>
 </div>
