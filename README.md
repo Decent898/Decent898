@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=220&section=header&text=Decent898&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Doctor%20Ceremony%20(DC)%20%7C%20AI%20Research%20%26%20Systems&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=220&section=header&text=Decent898&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Doctor%20Ceremony%20(DC)%20%7C%20AI%20Research%20and%20Systems&descAlignY=60&descAlign=50" />
 </div>
 
 ### <img src="https://media.giphy.com/media/HVr4gFHYIqeti/giphy.gif" width="30"> Identity Matrix
 
-> **"I will set the seas ablaze."** — *Firefly*
+> **"I will set the seas ablaze."** — *Firefly (Hotaru)*
 
 - 🆔 **Codename:** **DC** (Doctor Ceremony)
 - 📍 **Base:** Beijing, CN
@@ -25,6 +25,13 @@
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=intel&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
+
+---
+
+### ⚡ Current Status
+- 🔭 I’m currently working on **LLM Alignment Strategies**.
+- 🌱 Learning **PPO (Proximal Policy Optimization)** algorithms.
+- 💬 Ask me about **Kernel & Transformers**.
 
 ---
 
